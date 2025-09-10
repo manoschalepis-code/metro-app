@@ -1,6 +1,4 @@
 
-
-
 {
   "name": "metro-app",
   "version": "1.0.0",
@@ -14,3 +12,4 @@
     "node-fetch": "^2.6.7"
   }
 }
+
